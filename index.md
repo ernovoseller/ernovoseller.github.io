@@ -16,7 +16,7 @@ Maegan Tucker, Myra Cheng, Ellen Novoseller, Richard Cheng, Yisong Yue, Joel W. 
 ### Conference Publications:
 
 **Preference-Based Learning for Exoskeleton Gait Optimization**<br/>
-Maegan Tucker*, Ellen Novoseller*, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, and Aaron D. Ames<br/>
+Maegan Tucker&ast;, Ellen Novoseller&ast;, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, and Aaron D. Ames<br/>
 IEEE Conference on Robotics and Automation (ICRA), 2020<br/>
 (*equal contribution)<br/>
 [PDF](https://arxiv.org/abs/1909.12316)
