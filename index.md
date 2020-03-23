@@ -1,5 +1,5 @@
 
-I am a PhD student in Control and Dynamical Systems, advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick). My research focuses on learning from human feedback, with applications to human-robot interaction and personalized medicine. My interests also include creating intelligent assistive devices, reinforcement learning, sequential decision-making, and applications of machine learning to healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.
+I am a PhD student in Control and Dynamical Systems at Caltech, where I am fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick). My research focuses on learning from human feedback, with applications to human-robot interaction and personalized medicine. My interests also include creating intelligent assistive devices, reinforcement learning, sequential decision-making, and applications of machine learning to healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.
 
 ## Publications
 
@@ -16,7 +16,7 @@ Maegan Tucker, Myra Cheng, Ellen Novoseller, Richard Cheng, Yisong Yue, Joel W. 
 ### Conference Publications:
 
 **Preference-Based Learning for Exoskeleton Gait Optimization**<br/>
-Maegan Tucker\*;, Ellen Novoseller\*;, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, and Aaron D. Ames<br/>
+Maegan Tucker\*, Ellen Novoseller\*, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, and Aaron D. Ames<br/>
 IEEE Conference on Robotics and Automation (ICRA), 2020<br/>
 (*equal contribution)<br/>
 [PDF](https://arxiv.org/abs/1909.12316)
