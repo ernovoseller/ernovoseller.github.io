@@ -19,7 +19,7 @@ Maegan Tucker, Myra Cheng, Ellen Novoseller, Richard Cheng, Yisong Yue, Joel W. 
 Maegan Tucker\*, Ellen Novoseller\*, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, and Aaron D. Ames<br/>
 IEEE Conference on Robotics and Automation (ICRA), 2020<br/>
 (*equal contribution)<br/>
-[PDF](https://arxiv.org/abs/1909.12316)    [Video](https://www.youtube.com/watch?v=-27sHXsvONE)
+[PDF](https://arxiv.org/abs/1909.12316) &nbsp;&nbsp;&nbsp; [Video](https://www.youtube.com/watch?v=-27sHXsvONE)
 
 **Modeling Motor Responses of Paraplegics under Epidural Spinal Cord Stimulation**<br/>
 Ellen Feldman and Joel W. Burdick<br/>
