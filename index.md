@@ -8,21 +8,23 @@ I am a PhD student in Control and Dynamical Systems at Caltech, where I am fortu
 
 ### Pre-Prints:
 
-**Dueling Posterior Sampling for Preference-Based Reinforcement Learning**<br/>
-Ellen Novoseller, Yibing Wei, Yanan Sui, Yisong Yue, and Joel W. Burdick<br/>
-[PDF](https://arxiv.org/abs/1908.01289)
-
 **Human Preference-Based Learning for High-Dimensional Optimization of Exoskeleton Walking Gaits**<br/>
 Maegan Tucker, Myra Cheng, Ellen Novoseller, Richard Cheng, Yisong Yue, Joel W. Burdick, and Aaron D. Ames<br/>
 [PDF](https://arxiv.org/abs/2003.06495)
 
 ### Conference Publications:
 
+**Dueling Posterior Sampling for Preference-Based Reinforcement Learning**<br/>
+Conference on Uncertainty in Artificial Intelligence (UAI), 2020<br/>
+Ellen Novoseller, Yibing Wei, Yanan Sui, Yisong Yue, and Joel W. Burdick<br/>
+[PDF](https://arxiv.org/abs/1908.01289)
+
 **Preference-Based Learning for Exoskeleton Gait Optimization**<br/>
 Maegan Tucker\*, Ellen Novoseller\*, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, and Aaron D. Ames<br/>
 IEEE Conference on Robotics and Automation (ICRA), 2020<br/>
 (*equal contribution)<br/>
-[PDF](https://arxiv.org/abs/1909.12316) &nbsp;&nbsp;&nbsp; [Video](https://www.youtube.com/watch?v=-27sHXsvONE) &nbsp;&nbsp;&nbsp; [Code](https://github.com/ernovoseller/CoSpar)
+[PDF](https://arxiv.org/abs/1909.12316) &nbsp;&nbsp;&nbsp; [Video](https://www.youtube.com/watch?v=-27sHXsvONE) &nbsp;&nbsp;&nbsp; [Code](https://github.com/ernovoseller/CoSpar)<br/>
+Finalist for the Best Paper Award and for the Best Paper Award in Human-Robot Interaction.
 
 **Modeling Motor Responses of Paraplegics under Epidural Spinal Cord Stimulation**<br/>
 Ellen Feldman and Joel W. Burdick<br/>
