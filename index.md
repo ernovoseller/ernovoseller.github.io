@@ -2,7 +2,7 @@
 <br/>
 ## About Me
 
-I am a PhD student in Control and Dynamical Systems at Caltech, where I am fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick). My research focuses on learning from human feedback, with applications to human-robot interaction and personalized medicine. My interests also include creating intelligent assistive devices, reinforcement learning, sequential decision-making, and applications of machine learning to healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.
+I am a PhD student in Control and Dynamical Systems at Caltech, where I am fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick). My research focuses on learning from human feedback, with applications to human-robot interaction and personalized medical therapy. I aim to develop theoretically-motivated, principled algorithms for learning from sequential human feedback. In addition, my interests include creating intelligent assistive devices, reinforcement learning, sequential decision-making, and applications of machine learning to healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.
 
 ## Publications
 
@@ -17,7 +17,7 @@ Maegan Tucker, Myra Cheng, Ellen Novoseller, Richard Cheng, Yisong Yue, Joel W. 
 **Dueling Posterior Sampling for Preference-Based Reinforcement Learning**<br/>
 Conference on Uncertainty in Artificial Intelligence (UAI), 2020<br/>
 Ellen Novoseller, Yibing Wei, Yanan Sui, Yisong Yue, and Joel W. Burdick<br/>
-[PDF](https://arxiv.org/abs/1908.01289)
+[PDF](https://arxiv.org/abs/1908.01289)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/ernovoseller/DuelingPosteriorSampling)
 
 **Preference-Based Learning for Exoskeleton Gait Optimization**<br/>
 Maegan Tucker\*, Ellen Novoseller\*, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, and Aaron D. Ames<br/>
