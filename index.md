@@ -31,7 +31,7 @@ Ellen Feldman and Joel W. Burdick<br/>
 IEEE Conference on Neural Engineering (NER), 2017<br/>
 [PDF](https://ieeexplore.ieee.org/document/8008363)
 
-**Towards Robot Assisted Vitreoretinal Surgery: Force-Sensing Micro-Forceps Integrated with a Handheld Micromanipulator**<br/>
+**Towards Robot-Assisted Vitreoretinal Surgery: Force-Sensing Micro-Forceps Integrated with a Handheld Micromanipulator**<br/>
 Berk Gonenc, Ellen Feldman, Peter Gehlbach, James Handa, Russell H. Taylor, and Iulian Iordachita<br/>
 IEEE Conference on Robotics and Automation (ICRA), 2014<br/>
 [PDF](https://ieeexplore.ieee.org/document/6907035) &nbsp;&nbsp;&nbsp; [Video](https://ieeexplore.ieee.org/document/6907035/media#media)
