@@ -23,7 +23,7 @@ Ellen Novoseller, Yibing Wei, Yanan Sui, Yisong Yue, and Joel W. Burdick<br/>
 Maegan Tucker\*, Ellen Novoseller\*, Claudia Kann, Yanan Sui, Yisong Yue, Joel W. Burdick, and Aaron D. Ames<br/>
 IEEE Conference on Robotics and Automation (ICRA), 2020<br/>
 (*equal contribution)<br/>
-[PDF](https://arxiv.org/abs/1909.12316) &nbsp;&nbsp;&nbsp; [Video](https://www.youtube.com/watch?v=-27sHXsvONE) &nbsp;&nbsp;&nbsp; [Code](https://github.com/ernovoseller/CoSpar) &nbsp;&nbsp;&nbsp; [Website] (https://sites.google.com/view/cospar/) <br/>
+[PDF](https://arxiv.org/abs/1909.12316) &nbsp;&nbsp;&nbsp; [Video](https://www.youtube.com/watch?v=-27sHXsvONE) &nbsp;&nbsp;&nbsp; [Code](https://github.com/ernovoseller/CoSpar) &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/cospar/) <br/>
 Finalist for the Best Paper Award and for the Best Paper Award in Human-Robot Interaction.
 
 **Modeling Motor Responses of Paraplegics under Epidural Spinal Cord Stimulation**<br/>
