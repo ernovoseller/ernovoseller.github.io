@@ -24,7 +24,7 @@ Maegan Tucker\*, Ellen Novoseller\*, Claudia Kann, Yanan Sui, Yisong Yue, Joel W
 IEEE Conference on Robotics and Automation (ICRA), 2020<br/>
 (*equal contribution)<br/>
 [PDF](https://arxiv.org/abs/1909.12316) &nbsp;&nbsp;&nbsp; [Video](https://www.youtube.com/watch?v=-27sHXsvONE) &nbsp;&nbsp;&nbsp; [Code](https://github.com/ernovoseller/CoSpar) &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/cospar/) <br/>
-Received Best Conference Paper Award and Best Paper in Human-Robot Interaction Award.
+Received **Best Conference Paper Award** and **Best Paper in Human-Robot Interaction Award**.
 
 **Modeling Motor Responses of Paraplegics under Epidural Spinal Cord Stimulation**<br/>
 Ellen Feldman and Joel W. Burdick<br/>
