@@ -10,7 +10,7 @@ I am a PhD student in Control and Dynamical Systems at Caltech, where I am fortu
 
 **Human Preference-Based Learning for High-Dimensional Optimization of Exoskeleton Walking Gaits**<br/>
 Maegan Tucker, Myra Cheng, Ellen Novoseller, Richard Cheng, Yisong Yue, Joel W. Burdick, and Aaron D. Ames<br/>
-[PDF](https://arxiv.org/abs/2003.06495)
+[PDF](https://arxiv.org/abs/2003.06495)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/myracheng/linecospar)
 
 ### Conference Publications:
 
