@@ -16,8 +16,8 @@ IEEE Conference on Intelligent Robots and Systems (IROS), 2020<br/>
 [PDF](https://arxiv.org/abs/2003.06495)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/myracheng/linecospar)
 
 **Dueling Posterior Sampling for Preference-Based Reinforcement Learning**<br/>
-Conference on Uncertainty in Artificial Intelligence (UAI), 2020<br/>
 Ellen Novoseller, Yibing Wei, Yanan Sui, Yisong Yue, and Joel W. Burdick<br/>
+Conference on Uncertainty in Artificial Intelligence (UAI), 2020<br/>
 [PDF](https://arxiv.org/abs/1908.01289)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/ernovoseller/DuelingPosteriorSampling)
 
 **Preference-Based Learning for Exoskeleton Gait Optimization**<br/>
