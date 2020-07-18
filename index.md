@@ -40,7 +40,7 @@ IEEE Conference on Robotics and Automation (ICRA), 2014<br/>
 ### Workshop Publications:
 
 **Preference-Based Bayesian Optimization in High Dimensions with Human Feedback**<br/>
-Myra Cheng, Ellen Novoseller, Maegan Tucker, Richard Cheng, Joel W. Burdick, Yisong Yue<br/>
+Myra Cheng, Ellen Novoseller, Maegan Tucker, Richard Cheng, Joel W. Burdick, and Yisong Yue<br/>
 Workshop on Real World Experiment Design and Active Learning, International Conference on Machine Learning (ICML), 2020<br/>
 [PDF](https://realworldml.github.io/files/cr/17_RealML_workshop_2020_LineCoSpar.pdf)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/myracheng/linecospar)
 
