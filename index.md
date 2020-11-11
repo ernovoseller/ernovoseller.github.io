@@ -8,6 +8,12 @@ I am a PhD student in Control and Dynamical Systems at Caltech, where I am fortu
 
 <!---### Pre-Prints:--->
 
+### Pre-Prints:
+**ROIAL: Region of Interest Active Learning for Characterizing Exoskeleton Gait Preference Landscapes**<br/>
+Kejun Li, Maegan Tucker, Erdem Bıyık, Ellen Novoseller, Joel W. Burdick, Yanan Sui, Dorsa Sadigh, Yisong Yue, and Aaron D. Ames<br/>
+ArXiv pre-print, 2020<br/>
+[PDF](https://arxiv.org/abs/2011.04812)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/kli58/ROIAL)
+
 ### Conference Publications:
 
 **Human Preference-Based Learning for High-Dimensional Optimization of Exoskeleton Walking Gaits**<br/>
