@@ -14,13 +14,12 @@ CaltechTHESIS repository, 2020<br/>
 
 <!---### Pre-Prints:--->
 
-### Pre-Prints:
+### Conference Publications:
+
 **ROIAL: Region of Interest Active Learning for Characterizing Exoskeleton Gait Preference Landscapes**<br/>
 Kejun Li, Maegan Tucker, Erdem Bıyık, Ellen Novoseller, Joel W. Burdick, Yanan Sui, Dorsa Sadigh, Yisong Yue, and Aaron D. Ames<br/>
-ArXiv pre-print, 2020<br/>
+IEEE Conference on Robotics and Automation (ICRA), 2021<br/>
 [PDF](https://arxiv.org/abs/2011.04812)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/kli58/ROIAL)
-
-### Conference Publications:
 
 **Human Preference-Based Learning for High-Dimensional Optimization of Exoskeleton Walking Gaits**<br/>
 Maegan Tucker, Myra Cheng, Ellen Novoseller, Richard Cheng, Yisong Yue, Joel W. Burdick, and Aaron D. Ames<br/>
