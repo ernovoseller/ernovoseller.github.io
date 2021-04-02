@@ -12,7 +12,12 @@ Ellen Novoseller<br/>
 CaltechTHESIS repository, 2020<br/>
 [PDF](http://thesis.library.caltech.edu/14021/)
 
-<!---### Pre-Prints:--->
+### Pre-Prints:
+
+**LazyDAgger: Reducing Context Switching in Interactive Imitation Learning**<br/>
+Ryan Hoque, Ashwin Balakrishna, Carl Putterman, Michael Luo, Daniel S. Brown, Daniel Seita, Brijen Thananjeyan, Ellen Novoseller, Ken Goldberg<br/>
+ArXiv Preprint, 2021<br/>
+[PDF](https://arxiv.org/abs/2104.00053)
 
 ### Conference Publications:
 
