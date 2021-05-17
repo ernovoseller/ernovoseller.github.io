@@ -4,6 +4,8 @@
 
 I am a postdoctoral researcher and [CI Fellow](https://cifellows2020.org/) at UC Berkeley, working with Professor [Ken Goldberg](https://goldberg.berkeley.edu/) in the [AUTOLAB](http://autolab.berkeley.edu/). Previously, I was a PhD student in Control and Dynamical Systems at Caltech, where I was fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick). My research focuses on learning from human feedback, with applications to robot manipulation and human-robot interaction. In addition, my interests include creating intelligent assistive devices, reinforcement learning, sequential decision-making, and applications of machine learning to healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.
 
+My CV is located [here](Novoseller_Ellen_CV_updated_5_17_2021.pdf).
+
 ## Publications
 
 ### PhD Dissertation:
