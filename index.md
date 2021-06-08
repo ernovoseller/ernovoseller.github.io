@@ -16,12 +16,17 @@ CaltechTHESIS repository, 2020<br/>
 
 ### Pre-Prints:
 
-**LazyDAgger: Reducing Context Switching in Interactive Imitation Learning**<br/>
-Ryan Hoque, Ashwin Balakrishna, Carl Putterman, Michael Luo, Daniel S. Brown, Daniel Seita, Brijen Thananjeyan, Ellen Novoseller, Ken Goldberg<br/>
+**Disentangling Dense Multi-Cable Knots**<br/>
+Vainavi Viswanath\*, Jennifer Grannen\*, Priya Sundaresan\*, Brijen Thananjeyan, Ashwin Balakrishna, Ellen Novoseller, Jeffrey Ichnowski, Michael Laskey, Joseph E. Gonzalez, and Ken Goldberg<br/>
 ArXiv Preprint, 2021<br/>
-[PDF](https://arxiv.org/abs/2104.00053)
+[PDF](https://arxiv.org/abs/2106.02252)
 
 ### Conference Publications:
+
+**LazyDAgger: Reducing Context Switching in Interactive Imitation Learning**<br/>
+Ryan Hoque, Ashwin Balakrishna, Carl Putterman, Michael Luo, Daniel S. Brown, Daniel Seita, Brijen Thananjeyan, Ellen Novoseller, and Ken Goldberg<br/>
+IEEE Conference on Automation Science and Engineering (CASE), 2021<br/>
+[PDF](https://arxiv.org/abs/2104.00053)
 
 **ROIAL: Region of Interest Active Learning for Characterizing Exoskeleton Gait Preference Landscapes**<br/>
 Kejun Li, Maegan Tucker, Erdem Bıyık, Ellen Novoseller, Joel W. Burdick, Yanan Sui, Dorsa Sadigh, Yisong Yue, and Aaron D. Ames<br/>
