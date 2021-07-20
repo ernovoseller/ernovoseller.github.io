@@ -14,14 +14,19 @@ Ellen Novoseller<br/>
 CaltechTHESIS repository, 2020<br/>
 [PDF](http://thesis.library.caltech.edu/14021/)
 
-### Pre-Prints:
+<!--### Pre-Prints:-->
+
+### Conference Publications:
+
+**Untangling Dense Non-Planar Knots by Learning Manipulation Features and Recovery Policies**<br/>
+Priya Sundaresan\*, Jennifer Grannen\*, Brijen Thananjeyan, Ashwin Balakrishna, Jeffrey Ichnowski, Ellen Novoseller, Minho Hwang, Michael Laskey, Joseph E. Gonzalez, and Ken Goldberg<br/>
+Conference on Robotics: Science and Systems (RSS), 2021<br/>
+[PDF](https://arxiv.org/abs/2107.08942) &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/berkeley.edu/non-planar-untangling)
 
 **Disentangling Dense Multi-Cable Knots**<br/>
 Vainavi Viswanath\*, Jennifer Grannen\*, Priya Sundaresan\*, Brijen Thananjeyan, Ashwin Balakrishna, Ellen Novoseller, Jeffrey Ichnowski, Michael Laskey, Joseph E. Gonzalez, and Ken Goldberg<br/>
-ArXiv Preprint, 2021<br/>
+IEEE Conference on Intelligent Robots and Systems (IROS), 2021<br/>
 [PDF](https://arxiv.org/abs/2106.02252)
-
-### Conference Publications:
 
 **LazyDAgger: Reducing Context Switching in Interactive Imitation Learning**<br/>
 Ryan Hoque, Ashwin Balakrishna, Carl Putterman, Michael Luo, Daniel S. Brown, Daniel Seita, Brijen Thananjeyan, Ellen Novoseller, and Ken Goldberg<br/>
