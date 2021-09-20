@@ -18,6 +18,11 @@ CaltechTHESIS repository, 2020<br/>
 
 ### Conference Publications:
 
+**ThriftyDAgger: Budget-Aware Novelty and Risk Gating for Interactive Imitation Learning**<br/>
+Ryan Hoque, Ashwin Balakrishna, Ellen Novoseller, Albert Wilcox, Daniel S. Brown, and Ken Goldberg<br/>
+Conference on Robot Learning (CoRL), 2021<br/>
+[PDF](https://arxiv.org/pdf/2109.08273.pdf) &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/thrifty-dagger/home)
+
 **Untangling Dense Non-Planar Knots by Learning Manipulation Features and Recovery Policies**<br/>
 Priya Sundaresan\*, Jennifer Grannen\*, Brijen Thananjeyan, Ashwin Balakrishna, Jeffrey Ichnowski, Ellen Novoseller, Minho Hwang, Michael Laskey, Joseph E. Gonzalez, and Ken Goldberg<br/>
 Conference on Robotics: Science and Systems (RSS), 2021<br/>
