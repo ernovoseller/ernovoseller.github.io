@@ -31,12 +31,12 @@ Conference on Robotics: Science and Systems (RSS), 2021<br/>
 **Disentangling Dense Multi-Cable Knots**<br/>
 Vainavi Viswanath\*, Jennifer Grannen\*, Priya Sundaresan\*, Brijen Thananjeyan, Ashwin Balakrishna, Ellen Novoseller, Jeffrey Ichnowski, Michael Laskey, Joseph E. Gonzalez, and Ken Goldberg<br/>
 IEEE Conference on Intelligent Robots and Systems (IROS), 2021<br/>
-[PDF](https://arxiv.org/abs/2106.02252)
+[PDF](https://arxiv.org/abs/2106.02252) &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/multi-cable-disentangling)
 
 **LazyDAgger: Reducing Context Switching in Interactive Imitation Learning**<br/>
 Ryan Hoque, Ashwin Balakrishna, Carl Putterman, Michael Luo, Daniel S. Brown, Daniel Seita, Brijen Thananjeyan, Ellen Novoseller, and Ken Goldberg<br/>
 IEEE Conference on Automation Science and Engineering (CASE), 2021<br/>
-[PDF](https://arxiv.org/abs/2104.00053)
+[PDF](https://arxiv.org/abs/2104.00053) &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/lazydagger/home)
 
 **ROIAL: Region of Interest Active Learning for Characterizing Exoskeleton Gait Preference Landscapes**<br/>
 Kejun Li, Maegan Tucker, Erdem Bıyık, Ellen Novoseller, Joel W. Burdick, Yanan Sui, Dorsa Sadigh, Yisong Yue, and Aaron D. Ames<br/>
