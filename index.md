@@ -2,7 +2,10 @@
 <br/>
 ## About Me
 
-I am a postdoctoral researcher and [CI Fellow](https://cifellows2020.org/) at UC Berkeley, working with Professor [Ken Goldberg](https://goldberg.berkeley.edu/) in the [AUTOLAB](http://autolab.berkeley.edu/). Previously, I was a PhD student in Control and Dynamical Systems at Caltech, where I was fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick). My research focuses on robot learning and manipulation and includes work on reinforcement learning, human-in-the-loop learning, and simulation-to-reality transfer. My PhD work centered on human-in-the-loop learning with applications to robotic exoskeleton walking. More broadly, my interests include creating intelligent assistive devices, learning from human feedback, sequential decision-making, and applications of machine learning to robotics and healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.
+I am a postdoctoral fellow at the Army Research Lab, working with [Dr. Nicholas Waytowich](https://scholar.google.com/citations?user=leelUAgAAAAJ&hl=en).   
+Previously, I was a postdoctoral researcher and [CI Fellow](https://cifellows2020.org/) at UC Berkeley, working with Professor [Ken Goldberg](https://goldberg.berkeley.edu/) in the [AUTOLAB](http://autolab.berkeley.edu/). I completed my PhD in Control and Dynamical Systems at Caltech, where I was fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick). My research focuses on human-in-the-loop learning, sequential decision-making, and robot learning. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.
+
+<!--robot learning and manipulation and includes work on reinforcement learning, human-in-the-loop learning, and simulation-to-reality transfer. My PhD work centered on human-in-the-loop learning with applications to robotic exoskeleton walking. More broadly, my interests include creating intelligent assistive devices, learning from human feedback, sequential decision-making, and applications of machine learning to robotics and healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.-->
 
 <!--I am a postdoctoral researcher and [CI Fellow](https://cifellows2020.org/) at UC Berkeley, working with Professor [Ken Goldberg](https://goldberg.berkeley.edu/) in the [AUTOLAB](http://autolab.berkeley.edu/). Previously, I was a PhD student in Control and Dynamical Systems at Caltech, where I was fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick). My research focuses on learning from human feedback, with applications to robot manipulation and human-robot interaction. In addition, my interests include creating intelligent assistive devices, reinforcement learning, sequential decision-making, and applications of machine learning to healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.-->
 
@@ -16,9 +19,22 @@ Ellen Novoseller<br/>
 CaltechTHESIS repository, 2020<br/>
 [PDF](http://thesis.library.caltech.edu/14021/)
 
-<!--### Pre-Prints:-->
+### Pre-Prints:
+**Policy-Based Bayesian Experimental Design for Non-Differentiable Implicit Models**<br/>
+Vincent Lim, Ellen Novoseller, Jeffrey Ichnowski, Huang Huang, and Ken Goldberg<br/>
+ArXiv pre-print, 2022<br/>
+[PDF](https://arxiv.org/pdf/2203.04272.pdf)
 
 ### Conference Publications:
+**Autonomously Untangling Long Cables**<br/>
+Vainavi Viswanath\*, Kaushik Shivakumar\*, Justin Kerr\*, Brijen Thananjeyan, Ellen Novoseller, Jeffrey Ichnowski, Alejandro Escontrela, Michael Laskey, Joseph E. Gonzalez, and Ken Goldberg<br/>
+Conference on Robotics: Science and Systems (RSS), 2022<br/>
+[PDF](http://www.roboticsproceedings.org/rss18/p034.pdf) &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/rss-2022-untangling/home)
+
+**Learning Switching Criteria for Sim2Real Transfer of Robotic Fabric Manipulation Policies**<br/>
+Satvik Sharma\*, Ellen Novoseller\*, Vainavi Viswanath, Zaynah Javed, Rishi Parikh, Ryan Hoque, Daniel S. Brown, Ashwin Balakrishna, and Ken Goldberg<br/>
+IEEE Conference on Automation Science and Engineering (CASE), 2022<br/>
+[PDF coming soon]  &nbsp;&nbsp;&nbsp; [Code](https://github.com/ernovoseller/BC_switching_criteria)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/learning-switching-criteria)
 
 **ThriftyDAgger: Budget-Aware Novelty and Risk Gating for Interactive Imitation Learning**<br/>
 Ryan Hoque, Ashwin Balakrishna, Ellen Novoseller, Albert Wilcox, Daniel S. Brown, and Ken Goldberg<br/>
