@@ -28,7 +28,7 @@ ArXiv pre-print, 2022<br/>
 **Autonomously Untangling Long Cables**<br/>
 Vainavi Viswanath\*, Kaushik Shivakumar\*, Justin Kerr\*, Brijen Thananjeyan, Ellen Novoseller, Jeffrey Ichnowski, Alejandro Escontrela, Michael Laskey, Joseph E. Gonzalez, and Ken Goldberg<br/>
 Conference on Robotics: Science and Systems (RSS), 2022<br/>
-[PDF](http://www.roboticsproceedings.org/rss18/p034.pdf) &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/rss-2022-untangling/home)
+[PDF](http://www.roboticsproceedings.org/rss18/p034.pdf) &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/rss-2022-untangling/home) <br/>
 Received **Best Systems Paper Award**.
 
 **Learning Switching Criteria for Sim2Real Transfer of Robotic Fabric Manipulation Policies**<br/>
