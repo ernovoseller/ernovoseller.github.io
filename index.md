@@ -34,6 +34,7 @@ Received **Best Systems Paper Award**.
 **Learning Switching Criteria for Sim2Real Transfer of Robotic Fabric Manipulation Policies**<br/>
 Satvik Sharma\*, Ellen Novoseller\*, Vainavi Viswanath, Zaynah Javed, Rishi Parikh, Ryan Hoque, Daniel S. Brown, Ashwin Balakrishna, and Ken Goldberg<br/>
 IEEE Conference on Automation Science and Engineering (CASE), 2022<br/>
+(*equal contribution)<br/>
 [PDF](https://arxiv.org/pdf/2207.00911.pdf)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/ernovoseller/BC_switching_criteria)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/learning-switching-criteria)
 
 **ThriftyDAgger: Budget-Aware Novelty and Risk Gating for Interactive Imitation Learning**<br/>
