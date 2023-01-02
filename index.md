@@ -25,6 +25,12 @@ ArXiv pre-print, 2022<br/>
 [PDF](https://arxiv.org/pdf/2203.04272.pdf)
 
 ### Conference Publications:
+
+**Efficiently Learning Single-Arm Fling Motions to Smooth Garments**<br/>
+Lawrence Yunliang Chen\*, Huang Huang\*, Ellen Novoseller, Daniel Seita, Jeffrey Ichnowski, Michael Laskey, Richard Cheng, Thomas Kollar, and Ken Goldberg<br/>
+International Symposium on Robotics Research (ISRR), 2022<br/>
+[PDF](https://arxiv.org/pdf/2206.08921.pdf) &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/single-arm-fling/home)
+
 **Autonomously Untangling Long Cables**<br/>
 Vainavi Viswanath\*, Kaushik Shivakumar\*, Justin Kerr\*, Brijen Thananjeyan, Ellen Novoseller, Jeffrey Ichnowski, Alejandro Escontrela, Michael Laskey, Joseph E. Gonzalez, and Ken Goldberg<br/>
 Conference on Robotics: Science and Systems (RSS), 2022<br/>
