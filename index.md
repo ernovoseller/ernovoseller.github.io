@@ -100,7 +100,7 @@ IEEE Conference on Robotics and Automation (ICRA), 2014<br/>
 **Efficient Preference-Based Reinforcement Learning using Learned Dynamics Models**<br/>
 Yi Liu, Gaurav Datta, Ellen Novoseller, and Daniel S. Brown <br/>
 Workshop on Human in the Loop Learning, Neural Information Processing Systems (NeurIPS), 2022<br/>
-PDF (Coming soon)  &nbsp;&nbsp;&nbsp; [Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202022/64400.png)
+PDF (Coming soon)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/berkeley.edu/mop-rl)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/yiliu77/MB-TREX)
 
 **Preference-Based Bayesian Optimization in High Dimensions with Human Feedback**<br/>
 Myra Cheng, Ellen Novoseller, Maegan Tucker, Richard Cheng, Joel W. Burdick, and Yisong Yue<br/>
