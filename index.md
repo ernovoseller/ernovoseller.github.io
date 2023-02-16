@@ -18,13 +18,18 @@ Ellen Novoseller<br/>
 CaltechTHESIS repository, 2020<br/>
 [PDF](http://thesis.library.caltech.edu/14021/)
 
-### Pre-Prints:
+<!--### Pre-Prints:
 **Policy-Based Bayesian Experimental Design for Non-Differentiable Implicit Models**<br/>
 Vincent Lim, Ellen Novoseller, Jeffrey Ichnowski, Huang Huang, and Ken Goldberg<br/>
 ArXiv pre-print, 2022<br/>
-[PDF](https://arxiv.org/pdf/2203.04272.pdf)
+[PDF](https://arxiv.org/pdf/2203.04272.pdf)-->
 
 ### Conference Publications:
+
+**Efficient Preference-Based Reinforcement Learning Using Learned Dynamics Models**<br/>
+Yi Liu, Gaurav Datta, Ellen Novoseller, and Daniel S. Brown <br/>
+IEEE Conference on Robotics and Automation (ICRA), 2023 <br/>
+PDF (Coming soon)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/berkeley.edu/mop-rl)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/yiliu77/MB-TREX)
 
 **Efficiently Learning Single-Arm Fling Motions to Smooth Garments**<br/>
 Lawrence Yunliang Chen\*, Huang Huang\*, Ellen Novoseller, Daniel Seita, Jeffrey Ichnowski, Michael Laskey, Richard Cheng, Thomas Kollar, and Ken Goldberg<br/>
@@ -100,7 +105,7 @@ IEEE Conference on Robotics and Automation (ICRA), 2014<br/>
 **Efficient Preference-Based Reinforcement Learning using Learned Dynamics Models**<br/>
 Yi Liu, Gaurav Datta, Ellen Novoseller, and Daniel S. Brown <br/>
 Workshop on Human in the Loop Learning, Neural Information Processing Systems (NeurIPS), 2022<br/>
-PDF (Coming soon)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/berkeley.edu/mop-rl)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/yiliu77/MB-TREX)
+[PDF](https://arxiv.org/pdf/2301.04741.pdf)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/berkeley.edu/mop-rl)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/yiliu77/MB-TREX)
 
 **Preference-Based Bayesian Optimization in High Dimensions with Human Feedback**<br/>
 Myra Cheng, Ellen Novoseller, Maegan Tucker, Richard Cheng, Joel W. Burdick, and Yisong Yue<br/>
