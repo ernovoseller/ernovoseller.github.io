@@ -8,7 +8,7 @@ I am a researcher at the [DEVCOM US Army Research Lab](https://www.arl.army.mil/
 
 <!--I am a postdoctoral researcher and [CI Fellow](https://cifellows2020.org/) at UC Berkeley, working with Professor [Ken Goldberg](https://goldberg.berkeley.edu/) in the [AUTOLAB](http://autolab.berkeley.edu/). Previously, I was a PhD student in Control and Dynamical Systems at Caltech, where I was fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick). My research focuses on learning from human feedback, with applications to robot manipulation and human-robot interaction. In addition, my interests include creating intelligent assistive devices, reinforcement learning, sequential decision-making, and applications of machine learning to healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.-->
 
-My CV is located [here](Novoseller_Ellen_CV_updated_8_16_2022.pdf).
+<!--My CV is located [here](Novoseller_Ellen_CV_updated_8_16_2022.pdf).-->
 
 ## Publications
 
@@ -29,7 +29,7 @@ ArXiv pre-print, 2022<br/>
 **Efficient Preference-Based Reinforcement Learning Using Learned Dynamics Models**<br/>
 Yi Liu, Gaurav Datta, Ellen Novoseller, and Daniel S. Brown <br/>
 IEEE Conference on Robotics and Automation (ICRA), 2023 <br/>
-PDF (Coming soon)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/berkeley.edu/mop-rl)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/yiliu77/MB-TREX)
+[PDF](https://ieeexplore.ieee.org/document/10161081)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/berkeley.edu/mop-rl)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/yiliu77/MB-TREX)
 
 **Efficiently Learning Single-Arm Fling Motions to Smooth Garments**<br/>
 Lawrence Yunliang Chen\*, Huang Huang\*, Ellen Novoseller, Daniel Seita, Jeffrey Ichnowski, Michael Laskey, Richard Cheng, Thomas Kollar, and Ken Goldberg<br/>
