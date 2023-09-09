@@ -116,7 +116,7 @@ Workshop on The Many Facets of Preference Learning, International Conference on 
 **Imitation Learning with Human Eye Gaze via Multi-Objective Prediction**<br/>
 Ravi Kumar Thakur, MD-Nazmus Samin Sunbeam, Vinicius Goecks, Ellen Novoseller, Ritwik Bera, Vernon Lawhern, Gregory Gremillion, John Valasek, and Nicholas Waytowich <br/>
 Workshop on The Many Facets of Preference Learning, International Conference on Machine Learning (ICML), 2023<br/>
-[PDF](https://arxiv.org/abs/2102.13008)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/gaze-regularized-il/)  &nbsp;&nbsp;&nbsp; [Code](https://sites.google.com/view/dip-rl)
+[PDF](https://arxiv.org/abs/2102.13008)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/gaze-regularized-il/)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/ravikt/gril)
 
 **Rating-based Reinforcement Learning**<br/>
 Devin White, Mingkang Wu, Ellen Novoseller, Vernon Lawhern, Nicholas Waytowich, and Yongcan Cao <br/>
