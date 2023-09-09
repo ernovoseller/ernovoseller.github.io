@@ -2,7 +2,7 @@
 <br/>
 ## About Me
 
-I am a researcher at the [DEVCOM US Army Research Lab](https://www.arl.army.mil/) in the human-guided machine learning group. Previously, I was a postdoctoral fellow at the Army Research Lab, working with [Dr. Nicholas Waytowich](https://scholar.google.com/citations?user=leelUAgAAAAJ&hl=en). Before that, I was a postdoctoral researcher and [CI Fellow](https://cifellows2020.org/) at UC Berkeley, working with Professor [Ken Goldberg](https://goldberg.berkeley.edu/) in the [AUTOLAB](http://autolab.berkeley.edu/). I completed my PhD in Control and Dynamical Systems at Caltech, where I was fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick). My research focuses on human-in-the-loop learning, sequential decision-making, and robot learning. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.
+I am a researcher at the [DEVCOM US Army Research Lab](https://www.arl.army.mil/) studying human-guided machine learning. Previously, I was a postdoctoral fellow at the Army Research Lab, working with [Dr. Nicholas Waytowich](https://scholar.google.com/citations?user=leelUAgAAAAJ&hl=en). Before that, I was a postdoctoral researcher and [CI Fellow](https://cifellows2020.org/) at UC Berkeley, working with Professor [Ken Goldberg](https://goldberg.berkeley.edu/) in the [AUTOLAB](http://autolab.berkeley.edu/). I completed my PhD in Control and Dynamical Systems at Caltech, where I was fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick), and to work on optimizing the walking gaits of a robotic exoskeleton. My research focuses on human-in-the-loop learning, learning for sequential decision-making, and robot learning. I'm excited about the potential for algorithms leveraging human-AI interaction to support people in many personalized ways. Outside of research, my other goals include positively impacting people’s lives through mentorship and outreach.
 
 <!--robot learning and manipulation and includes work on reinforcement learning, human-in-the-loop learning, and simulation-to-reality transfer. My PhD work centered on human-in-the-loop learning with applications to robotic exoskeleton walking. More broadly, my interests include creating intelligent assistive devices, learning from human feedback, sequential decision-making, and applications of machine learning to robotics and healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.-->
 
@@ -25,6 +25,12 @@ ArXiv pre-print, 2022<br/>
 [PDF](https://arxiv.org/pdf/2203.04272.pdf)-->
 
 ### Conference Publications:
+
+**Towards Solving Fuzzy Tasks with Human Feedback: A Retrospective of the MineRL BASALT 2022 Competition**<br/>
+Stephanie Milani, Anssi Kanervisto, Karolis Ramanauskas, Sander Schulhoff, Brandon Houghton, Sharada Mohanty, Byron Galbraith, Ke Chen, Yan Song, Tianze Zhou, Bingquan Yu, He Liu, Kai Guan, Yujing Hu, Tangjie Lv, Federico Malato, Florian Leopold, Amogh Raut, Ville Hautamäki, Andrew Melnik, Shu Ishida, João Henriques, Robert Klassert, Walter Laurito, Ellen Novoseller, Vinicius Goecks, Nicholas Waytowich, David Watkins, Joshua Miller, Rohin Shah <br/>
+Proceedings of Machine Learning Research, 2023<br/>
+[PDF](https://arxiv.org/abs/2303.13512)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/nwayt001/preference-IQL)
+Our submission to the competition received a **Research Award**.
 
 **Efficient Preference-Based Reinforcement Learning Using Learned Dynamics Models**<br/>
 Yi Liu, Gaurav Datta, Ellen Novoseller, and Daniel S. Brown <br/>
@@ -101,6 +107,21 @@ IEEE Conference on Robotics and Automation (ICRA), 2014<br/>
 [PDF](https://ieeexplore.ieee.org/document/6907035) &nbsp;&nbsp;&nbsp; [Video](https://ieeexplore.ieee.org/document/6907035/media#media)
 
 ### Workshop Publications:
+
+**DIP-RL: Demonstration-Inferred Preference Learning in Minecraft**<br/>
+Ellen Novoseller, Vinicius Goecks, David Watkins, Joshua Miller, and Nicholas Waytowich <br/>
+Workshop on The Many Facets of Preference Learning, International Conference on Machine Learning (ICML), 2023<br/>
+[PDF](https://arxiv.org/abs/2307.12158)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/dip-rl)
+
+**Imitation Learning with Human Eye Gaze via Multi-Objective Prediction**<br/>
+Ravi Kumar Thakur, MD-Nazmus Samin Sunbeam, Vinicius Goecks, Ellen Novoseller, Ritwik Bera, Vernon Lawhern, Gregory Gremillion, John Valasek, and Nicholas Waytowich <br/>
+Workshop on The Many Facets of Preference Learning, International Conference on Machine Learning (ICML), 2023<br/>
+[PDF](https://arxiv.org/abs/2102.13008)  &nbsp;&nbsp;&nbsp; [Website](https://sites.google.com/view/gaze-regularized-il/)  &nbsp;&nbsp;&nbsp; [Code](https://sites.google.com/view/dip-rl)
+
+**Rating-based Reinforcement Learning**<br/>
+Devin White, Mingkang Wu, Ellen Novoseller, Vernon Lawhern, Nicholas Waytowich, and Yongcan Cao <br/>
+Workshop on The Many Facets of Preference Learning, International Conference on Machine Learning (ICML), 2023<br/>
+[PDF](https://arxiv.org/abs/2307.16348)
 
 **Efficient Preference-Based Reinforcement Learning using Learned Dynamics Models**<br/>
 Yi Liu, Gaurav Datta, Ellen Novoseller, and Daniel S. Brown <br/>
