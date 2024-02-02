@@ -20,13 +20,18 @@ Ellen Novoseller<br/>
 CaltechTHESIS repository, 2020<br/>
 [PDF](http://thesis.library.caltech.edu/14021/)
 
-<!--### Pre-Prints:
-**Policy-Based Bayesian Experimental Design for Non-Differentiable Implicit Models**<br/>
-Vincent Lim, Ellen Novoseller, Jeffrey Ichnowski, Huang Huang, and Ken Goldberg<br/>
-ArXiv pre-print, 2022<br/>
-[PDF](https://arxiv.org/pdf/2203.04272.pdf)-->
+### Pre-Prints:
+**Crowd-PrefRL: Preference-Based Reward Learning from Crowds**<br/>
+David Chhan, Ellen Novoseller, and Vernon J. Lawhern <br/>
+ArXiv pre-print, 2024<br/>
+[PDF](https://arxiv.org/abs/2401.10941)
 
 ### Conference Publications:
+
+**Rating-Based Reinforcement Learning**<br/>
+Devin White, Mingkang Wu, Ellen Novoseller, Vernon J. Lawhern, Nicholas Waytowich, and Yongcan Cao <br/>
+AAAI Conference on Artificial Intelligence, 2024<br/>
+[PDF](https://arxiv.org/abs/2307.16348)
 
 **Towards Solving Fuzzy Tasks with Human Feedback: A Retrospective of the MineRL BASALT 2022 Competition**<br/>
 Stephanie Milani, Anssi Kanervisto, Karolis Ramanauskas, Sander Schulhoff, Brandon Houghton, Sharada Mohanty, Byron Galbraith, Ke Chen, Yan Song, Tianze Zhou, Bingquan Yu, He Liu, Kai Guan, Yujing Hu, Tangjie Lv, Federico Malato, Florian Leopold, Amogh Raut, Ville Hautamäki, Andrew Melnik, Shu Ishida, João Henriques, Robert Klassert, Walter Laurito, Ellen Novoseller, Vinicius Goecks, Nicholas Waytowich, David Watkins, Joshua Miller, Rohin Shah <br/>
