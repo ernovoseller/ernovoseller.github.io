@@ -31,7 +31,7 @@ ArXiv pre-print, 2024<br/>
 **Rating-Based Reinforcement Learning**<br/>
 Devin White, Mingkang Wu, Ellen Novoseller, Vernon J. Lawhern, Nicholas Waytowich, and Yongcan Cao <br/>
 AAAI Conference on Artificial Intelligence, 2024<br/>
-[PDF](https://arxiv.org/abs/2307.16348)
+[PDF](https://arxiv.org/abs/2307.16348)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/Dev1nW/Rating-based-Reinforcement-Learning)
 
 **Towards Solving Fuzzy Tasks with Human Feedback: A Retrospective of the MineRL BASALT 2022 Competition**<br/>
 Stephanie Milani, Anssi Kanervisto, Karolis Ramanauskas, Sander Schulhoff, Brandon Houghton, Sharada Mohanty, Byron Galbraith, Ke Chen, Yan Song, Tianze Zhou, Bingquan Yu, He Liu, Kai Guan, Yujing Hu, Tangjie Lv, Federico Malato, Florian Leopold, Amogh Raut, Ville Hautamäki, Andrew Melnik, Shu Ishida, João Henriques, Robert Klassert, Walter Laurito, Ellen Novoseller, Vinicius Goecks, Nicholas Waytowich, David Watkins, Joshua Miller, Rohin Shah <br/>
