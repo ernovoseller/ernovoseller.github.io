@@ -28,6 +28,17 @@ ArXiv pre-print, 2024<br/>
 
 ### Conference Publications:
 
+**Scalable Interactive Machine Learning for Future Command and Control**<br/>
+Anna Madison\*, Ellen Novoseller\*, Vinicius G. Goecks\*, Benjamin T. Files, Nicholas Waytowich, Alfred Yu, Vernon J. Lawhern, Steven Thurman, Christopher Kelshaw, and Kaleb McDowell <br/>
+International Conference on Military Communication and Information Systems (ICMCIS), 2024<br/>
+(*equal contribution)<br/>
+[PDF](https://arxiv.org/abs/2402.06501)
+
+**Re-Envisioning Command and Control**<br/>
+Kaleb McDowell, Ellen Novoseller, Anna Madison, Vinicius G. Goecks, and Christopher Kelshaw  <br/>
+International Conference on Military Communication and Information Systems (ICMCIS), 2024<br/>
+[PDF](https://arxiv.org/abs/2402.07946)
+
 **Rating-Based Reinforcement Learning**<br/>
 Devin White, Mingkang Wu, Ellen Novoseller, Vernon J. Lawhern, Nicholas Waytowich, and Yongcan Cao <br/>
 AAAI Conference on Artificial Intelligence, 2024<br/>
