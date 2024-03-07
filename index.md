@@ -139,7 +139,7 @@ Workshop on Interactive Learning with Implicit Human Feedback, International Con
 **Rating-based Reinforcement Learning**<br/>
 Devin White, Mingkang Wu, Ellen Novoseller, Vernon Lawhern, Nicholas Waytowich, and Yongcan Cao <br/>
 Workshop on The Many Facets of Preference Learning, International Conference on Machine Learning (ICML), 2023<br/>
-[PDF](https://arxiv.org/abs/2307.16348)
+[PDF](https://arxiv.org/abs/2307.16348)  &nbsp;&nbsp;&nbsp; [Code](https://github.com/Dev1nW/Rating-based-Reinforcement-Learning)
 
 **Efficient Preference-Based Reinforcement Learning using Learned Dynamics Models**<br/>
 Yi Liu, Gaurav Datta, Ellen Novoseller, and Daniel S. Brown <br/>
