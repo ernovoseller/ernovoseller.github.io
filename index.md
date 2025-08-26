@@ -2,13 +2,9 @@
 <br/>
 ## About Me
 
-I am a researcher at the [US DEVCOM Army Research Lab](https://www.arl.army.mil/) studying human-guided machine learning. My research focuses on human-in-the-loop learning, sequential decision-making algorithms, and robot learning. I'm excited about the potential for algorithms leveraging human-AI interaction to support people in many personalized ways. Outside of research, I am committed to positively impacting people’s lives through mentorship and outreach.
+I am a researcher at the [US DEVCOM Army Research Lab](https://www.arl.army.mil/) studying human-guided machine learning. My research focuses on human-AI interaction, sequential decision-making algorithms, and robot learning. I'm excited about the potential for algorithms leveraging human-AI interaction to support people in many personalized ways. I am also committed to positively impacting people’s lives through mentorship and outreach.
 
 I completed my PhD in Control and Dynamical Systems at Caltech, where I was fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick) and to work on optimizing the walking gaits of a robotic exoskeleton. After that, I was a postdoctoral researcher and [CI Fellow](https://cifellows2020.org/) at UC Berkeley, working with Professor [Ken Goldberg](https://goldberg.berkeley.edu/) in the [AUTOLAB](http://autolab.berkeley.edu/). Prior to my current position, I was a postdoctoral fellow at the Army Research Lab, working with Dr. [Nicholas Waytowich](https://scholar.google.com/citations?user=leelUAgAAAAJ&hl=en). 
-
-<!--robot learning and manipulation and includes work on reinforcement learning, human-in-the-loop learning, and simulation-to-reality transfer. My PhD work centered on human-in-the-loop learning with applications to robotic exoskeleton walking. More broadly, my interests include creating intelligent assistive devices, learning from human feedback, sequential decision-making, and applications of machine learning to robotics and healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.-->
-
-<!--I am a postdoctoral researcher and [CI Fellow](https://cifellows2020.org/) at UC Berkeley, working with Professor [Ken Goldberg](https://goldberg.berkeley.edu/) in the [AUTOLAB](http://autolab.berkeley.edu/). Previously, I was a PhD student in Control and Dynamical Systems at Caltech, where I was fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick). My research focuses on learning from human feedback, with applications to robot manipulation and human-robot interaction. In addition, my interests include creating intelligent assistive devices, reinforcement learning, sequential decision-making, and applications of machine learning to healthcare. Outside of research, my other goals include positively impacting people’s lives through teaching and outreach.-->
 
 <!--My CV is located [here](Novoseller_Ellen_CV_updated_8_16_2022.pdf).-->
 
@@ -19,12 +15,6 @@ I completed my PhD in Control and Dynamical Systems at Caltech, where I was fort
 Ellen Novoseller<br/>
 CaltechTHESIS repository, 2020<br/>
 [PDF](http://thesis.library.caltech.edu/14021/)
-
-### Pre-Prints:
-**Crowd-PrefRL: Preference-Based Reward Learning from Crowds**<br/>
-David Chhan, Ellen Novoseller, and Vernon J. Lawhern <br/>
-ArXiv pre-print, 2024<br/>
-[PDF](https://arxiv.org/abs/2401.10941)
 
 ### Conference Publications:
 
@@ -124,7 +114,23 @@ Berk Gonenc, Ellen Feldman, Peter Gehlbach, James Handa, Russell H. Taylor, and 
 IEEE Conference on Robotics and Automation (ICRA), 2014<br/>
 [PDF](https://ieeexplore.ieee.org/document/6907035) &nbsp;&nbsp;&nbsp; [Video](https://ieeexplore.ieee.org/document/6907035/media#media)
 
+### Pre-Prints:
+**Crowd-PrefRL: Preference-Based Reward Learning from Crowds**<br/>
+David Chhan, Ellen Novoseller, and Vernon J. Lawhern <br/>
+ArXiv pre-print, 2024<br/>
+[PDF](https://arxiv.org/abs/2401.10941)
+
+**Policy-Based Bayesian Experimental Design for Non-Differentiable Implicit Models**<br/>
+Vincent Lim, Ellen Novoseller, Jeffrey Ichnowski, Huang Huang, and Ken Goldberg <br/>
+ArXiv pre-print, 2022<br/>
+[PDF](https://arxiv.org/abs/2203.04272)
+
 ### Workshop Publications:
+
+**Improving Reward Learning by Estimating Annotator Expertise**<br/>
+Pavel Czempin, Rachel Freedman, Ellen Novoseller, Vernon J. Lawhern, Cameron Allen, and Erdem Bıyık  <br/>
+Workshop on Continual Learning from Humans, Conference on Robotics: Science and Systems (RSS), 2025.<br/>
+[PDF](https://openreview.net/pdf?id=LB9mzsdemd)
 
 **DIP-RL: Demonstration-Inferred Preference Learning in Minecraft**<br/>
 Ellen Novoseller, Vinicius Goecks, David Watkins, Joshua Miller, and Nicholas Waytowich <br/>
