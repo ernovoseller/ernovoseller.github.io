@@ -115,6 +115,11 @@ IEEE Conference on Robotics and Automation (ICRA), 2014<br/>
 [PDF](https://ieeexplore.ieee.org/document/6907035) &nbsp;&nbsp;&nbsp; [Video](https://ieeexplore.ieee.org/document/6907035/media#media)
 
 ### Pre-Prints:
+**R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations**<br/>
+Connor Mattson, Varun Raveendra, Ellen Novoseller, Nicholas Waytowich, Vernon J. Lawhern, and Daniel S. Brown <br/>
+ArXiv pre-print, 2025<br/>
+[PDF](https://arxiv.org/abs/2510.18085) &nbsp;&nbsp;&nbsp; [Website and Code](https://sites.google.com/view/r2bc/home)
+
 **Crowd-PrefRL: Preference-Based Reward Learning from Crowds**<br/>
 David Chhan, Ellen Novoseller, and Vernon J. Lawhern <br/>
 ArXiv pre-print, 2024<br/>
