@@ -18,6 +18,16 @@ CaltechTHESIS repository, 2020<br/>
 
 ### Conference Publications:
 
+**R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations**<br/>
+Connor Mattson, Varun Raveendra, Ellen Novoseller, Nicholas Waytowich, Vernon J. Lawhern, and Daniel S. Brown <br/>
+To appear in the IEEE Conference on Robotics and Automation (ICRA), 2026<br/>
+[PDF](https://arxiv.org/abs/2510.18085) &nbsp;&nbsp;&nbsp; [Website and Code](https://sites.google.com/view/r2bc/home)
+
+**Learning Multi-Robot Coordination through Locality-Based Factorized Multi-Agent Actor-Critic Algorithm**<br/>
+Chak Lam Shek, Amrit Singh Bedi, Anjon Basak, Ellen Novoseller, Nick Waytowich, Priya Narayanan, Dinesh Manocha, and Pratap Tokekar <br/>
+To appear in Robotics and Automation Letters (RAL), 2026<br/>
+[PDF](https://arxiv.org/abs/2503.18816)
+
 **Scalable Interactive Machine Learning for Future Command and Control**<br/>
 Anna Madison\*, Ellen Novoseller\*, Vinicius G. Goecks\*, Benjamin T. Files, Nicholas Waytowich, Alfred Yu, Vernon J. Lawhern, Steven Thurman, Christopher Kelshaw, and Kaleb McDowell <br/>
 International Conference on Military Communication and Information Systems (ICMCIS), 2024<br/>
@@ -115,10 +125,6 @@ IEEE Conference on Robotics and Automation (ICRA), 2014<br/>
 [PDF](https://ieeexplore.ieee.org/document/6907035) &nbsp;&nbsp;&nbsp; [Video](https://ieeexplore.ieee.org/document/6907035/media#media)
 
 ### Pre-Prints:
-**R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations**<br/>
-Connor Mattson, Varun Raveendra, Ellen Novoseller, Nicholas Waytowich, Vernon J. Lawhern, and Daniel S. Brown <br/>
-ArXiv pre-print, 2025<br/>
-[PDF](https://arxiv.org/abs/2510.18085) &nbsp;&nbsp;&nbsp; [Website and Code](https://sites.google.com/view/r2bc/home)
 
 **Crowd-PrefRL: Preference-Based Reward Learning from Crowds**<br/>
 David Chhan, Ellen Novoseller, and Vernon J. Lawhern <br/>
