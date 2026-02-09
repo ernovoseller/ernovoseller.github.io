@@ -2,9 +2,9 @@
 <br/>
 ## About Me
 
-I am a researcher at the [US DEVCOM Army Research Lab](https://www.arl.army.mil/) studying human-guided machine learning. My research focuses on human-AI interaction, sequential decision-making algorithms, and robot learning. I'm excited about the potential for algorithms leveraging human-AI interaction to support people in many personalized ways. I am also committed to positively impacting people’s lives through mentorship and outreach.
+I am a researcher at the [US DEVCOM Army Research Lab](https://www.arl.army.mil/) studying multi-agent and human-guided machine learning. My research focuses on multi-agent learning in adversarial conditions, human-AI interaction, sequential decision-making algorithms, and robot learning. My goal is to develop AI systems that seamlessly interact with humans to augment human capabilities and improve people's lives.
 
-I completed my PhD in Control and Dynamical Systems at Caltech, where I was fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick) and to work on optimizing the walking gaits of a robotic exoskeleton. After that, I was a postdoctoral researcher and [CI Fellow](https://cifellows2020.org/) at UC Berkeley, working with Professor [Ken Goldberg](https://goldberg.berkeley.edu/) in the [AUTOLAB](http://autolab.berkeley.edu/). Prior to my current position, I was a postdoctoral fellow at the Army Research Lab, working with Dr. [Nicholas Waytowich](https://scholar.google.com/citations?user=leelUAgAAAAJ&hl=en). 
+I completed my PhD in Control and Dynamical Systems at Caltech, where I was fortunate to be advised by Professors [Yisong Yue](http://yisongyue.com/) and [Joel W. Burdick](http://eas.caltech.edu/people/jburdick) and to work on optimizing the walking gaits of a robotic exoskeleton. After that, I was a postdoctoral researcher and [CI Fellow](https://cifellows2020.org/) at UC Berkeley, working with Professor [Ken Goldberg](https://goldberg.berkeley.edu/) in the [AUTOLAB](http://autolab.berkeley.edu/) on robot learning problems. Prior to my current position, I was a postdoctoral fellow at the Army Research Lab. 
 
 <!--My CV is located [here](Novoseller_Ellen_CV_updated_8_16_2022.pdf).-->
 
