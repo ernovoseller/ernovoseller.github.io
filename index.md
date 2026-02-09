@@ -126,6 +126,11 @@ IEEE Conference on Robotics and Automation (ICRA), 2014<br/>
 
 ### Pre-Prints:
 
+**GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning**<br/>
+Zhiheng Jiang, Yunzhe Wang, Ryan Marr, Ellen Novoseller, Benjamin T. Files, and Volkan Ustun <br/>
+ArXiv pre-print, 2026<br/>
+[PDF](https://arxiv.org/abs/2601.20753) &nbsp;&nbsp;&nbsp; [Website](https://anonymous.4open.science/r/GraphAllocBench) &nbsp;&nbsp;&nbsp; [Code](https://github.com/jzh001/GraphAllocBench)
+
 **Crowd-PrefRL: Preference-Based Reward Learning from Crowds**<br/>
 David Chhan, Ellen Novoseller, and Vernon J. Lawhern <br/>
 ArXiv pre-print, 2024<br/>
