@@ -18,15 +18,20 @@ CaltechTHESIS repository, 2020<br/>
 
 ### Conference Publications:
 
+**MO-Playground: Massively Parallelized Multi-Objective Reinforcement Learning for Robotics**<br/>
+Neil Janwani, Ellen Novoseller, Vernon J. Lawhern, and Maegan Tucker <br/>
+IEEE Robotics and Automation Letters (RAL), 2026<br/>
+[PDF](https://ieeexplore.ieee.org/document/11551332) &nbsp;&nbsp;&nbsp; [Website](https://dynamicmobility.github.io/moplayground/); [Code](https://github.com/dynamicmobility/moplayground)
+
 **R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations**<br/>
 Connor Mattson, Varun Raveendra, Ellen Novoseller, Nicholas Waytowich, Vernon J. Lawhern, and Daniel S. Brown <br/>
-To appear in the IEEE Conference on Robotics and Automation (ICRA), 2026<br/>
+IEEE Conference on Robotics and Automation (ICRA), 2026<br/>
 [PDF](https://arxiv.org/abs/2510.18085) &nbsp;&nbsp;&nbsp; [Website and Code](https://sites.google.com/view/r2bc/home)
 
-**Learning Multi-Robot Coordination through Locality-Based Factorized Multi-Agent Actor-Critic Algorithm**<br/>
+<!--**Learning Multi-Robot Coordination through Locality-Based Factorized Multi-Agent Actor-Critic Algorithm**<br/>
 Chak Lam Shek, Amrit Singh Bedi, Anjon Basak, Ellen Novoseller, Nick Waytowich, Priya Narayanan, Dinesh Manocha, and Pratap Tokekar <br/>
-To appear in Robotics and Automation Letters (RAL), 2026<br/>
-[PDF](https://arxiv.org/abs/2503.18816)
+To appear in IEEE Robotics and Automation Letters (RAL), 2026<br/>
+[PDF](https://arxiv.org/abs/2503.18816)-->
 
 **Scalable Interactive Machine Learning for Future Command and Control**<br/>
 Anna Madison\*, Ellen Novoseller\*, Vinicius G. Goecks\*, Benjamin T. Files, Nicholas Waytowich, Alfred Yu, Vernon J. Lawhern, Steven Thurman, Christopher Kelshaw, and Kaleb McDowell <br/>
