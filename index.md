@@ -21,7 +21,7 @@ CaltechTHESIS repository, 2020<br/>
 **MO-Playground: Massively Parallelized Multi-Objective Reinforcement Learning for Robotics**<br/>
 Neil Janwani, Ellen Novoseller, Vernon J. Lawhern, and Maegan Tucker <br/>
 IEEE Robotics and Automation Letters (RAL), 2026<br/>
-[PDF](https://ieeexplore.ieee.org/document/11551332) &nbsp;&nbsp;&nbsp; [Website](https://dynamicmobility.github.io/moplayground/); [Code](https://github.com/dynamicmobility/moplayground)
+[PDF](https://ieeexplore.ieee.org/document/11551332) &nbsp;&nbsp;&nbsp; [Website](https://dynamicmobility.github.io/moplayground/)&nbsp;&nbsp;&nbsp; [Code](https://github.com/dynamicmobility/moplayground)
 
 **R2BC: Multi-Agent Imitation Learning from Single-Agent Demonstrations**<br/>
 Connor Mattson, Varun Raveendra, Ellen Novoseller, Nicholas Waytowich, Vernon J. Lawhern, and Daniel S. Brown <br/>
