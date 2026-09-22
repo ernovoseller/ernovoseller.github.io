@@ -16,7 +16,12 @@ Ellen Novoseller<br/>
 CaltechTHESIS repository, 2020<br/>
 [PDF](http://thesis.library.caltech.edu/14021/)
 
-### Conference Publications:
+### Conference and Journal Publications:
+
+**Human-in-the-Loop Multi-Robot Information Gathering with Inverse Submodular Maximization**<br/>
+Guangyao Shi, Shipeng Liu, Ellen Novoseller, Feifei Qian, and Gaurav S. Sukhatme <br/>
+To appear in IEEE Transactions on Robotics (IEEE T-RO), 2026.<br/>
+[PDF](https://arxiv.org/abs/2403.10991)
 
 **MO-Playground: Massively Parallelized Multi-Objective Reinforcement Learning for Robotics**<br/>
 Neil Janwani, Ellen Novoseller, Vernon J. Lawhern, and Maegan Tucker <br/>
@@ -131,11 +136,6 @@ IEEE Conference on Robotics and Automation (ICRA), 2014<br/>
 
 ### Pre-Prints:
 
-**GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning**<br/>
-Zhiheng Jiang, Yunzhe Wang, Ryan Marr, Ellen Novoseller, Benjamin T. Files, and Volkan Ustun <br/>
-ArXiv pre-print, 2026<br/>
-[PDF](https://arxiv.org/abs/2601.20753) &nbsp;&nbsp;&nbsp; [Website](https://anonymous.4open.science/r/GraphAllocBench) &nbsp;&nbsp;&nbsp; [Code](https://github.com/jzh001/GraphAllocBench)
-
 **Crowd-PrefRL: Preference-Based Reward Learning from Crowds**<br/>
 David Chhan, Ellen Novoseller, and Vernon J. Lawhern <br/>
 ArXiv pre-print, 2024<br/>
@@ -147,6 +147,11 @@ ArXiv pre-print, 2022<br/>
 [PDF](https://arxiv.org/abs/2203.04272)
 
 ### Workshop Publications:
+
+**GraphAllocBench: A Flexible Benchmark for Preference-Conditioned Multi-Objective Policy Learning**<br/>
+Zhiheng Jiang, Yunzhe Wang, Ryan Marr, Ellen Novoseller, Benjamin T. Files, and Volkan Ustun <br/>
+Workshop on Multi-Objective Decision Making (MODeM) at the International Joint Conferences on Artificial Intelligence (IJCAI), 2026<br/>
+[PDF](https://openreview.net/attachment?id=wqjQLDCcdG&name=pdf) &nbsp;&nbsp;&nbsp; [Code](https://github.com/jzh001/GraphAllocBench)
 
 **Improving Reward Learning by Estimating Annotator Expertise**<br/>
 Pavel Czempin, Rachel Freedman, Ellen Novoseller, Vernon J. Lawhern, Cameron Allen, and Erdem Bıyık  <br/>
